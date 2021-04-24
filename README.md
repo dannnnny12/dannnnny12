@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dannnnny12
+- 👋 Hi, I’m CHIH-MING (@dannnnny12)
 - 👀 This is my LinkedIn: https://www.linkedin.com/in/chihming-chung/
 - 🌱 I’m currently learning Vue.js
 
